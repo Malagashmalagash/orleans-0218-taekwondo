@@ -20,7 +20,7 @@ Le site devra se composer de plusieurs sections :
            - Compétition combat.
            - Stages.
            - Vie du club.
-     - Dans chaque categ, plusieurs galeries.
+     - Dans chaque catégorie, plusieurs galeries.
      
   - Chaque galerie = un texte de présentation + photos.
   - Evènements (Administrable) : Liste des évents du club (Compétitions, stages, repas…).
